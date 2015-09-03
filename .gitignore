@@ -5,6 +5,7 @@ Assets/StreamingAssets
 /obj
 /UnityGenerated
 /Library
+/release
 ProjectSettings/
 *.sublime-project
 *.sublime-workspace
